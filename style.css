@@ -63,13 +63,11 @@ button {
   color: #6dee0a;
 }
 
-footer {
+.credits {
   text-align: center;
-  color: #ffffff;
-  padding: 80px 0;
+  margin-top: 700px;
   position: absolute;
-  width: 100%;
-  bottom: 0;
+  padding: auto;
 }
 
 a {
